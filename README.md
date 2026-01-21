@@ -66,7 +66,7 @@ Built with **Streamlit**, the demo provides:
 - 📊 Interactive knowledge graph visualization
 - 🔗 Traceable evidence chains from triples to answers
 
-![Knowledge Graph Visualization](docs/images/kg.png)
+![Knowledge Graph Visualization](docs/images/Kg.png)
 
 ---
 
